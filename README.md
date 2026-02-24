@@ -1,1 +1,1 @@
-# my-convergeaitemplate
+# ai-based-template
